@@ -8,7 +8,7 @@ Aplicar técnicas de engenharia de requisitos para modelar um sistema de apoio a
 
 ## 👥 Integrantes
 - Saulo Miranda
-- Tiago
+- Thiago
 - Kaique Teixeira
 
 ## 📂 Estrutura do Projeto
