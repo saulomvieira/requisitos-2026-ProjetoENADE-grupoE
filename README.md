@@ -1,29 +1,31 @@
-# Sistema de Apoio ao ENADE
+# Projeto ENADE - Grupo E
 
-## 📌 Descrição
-Projeto acadêmico da disciplina de Requisitos e Modelagem de Sistemas.
+## Descrição
+Sistema web/mobile voltado para preparação de estudantes para o ENADE.
 
-## 🎯 Objetivo
-Aplicar técnicas de engenharia de requisitos para modelar um sistema de apoio ao ENADE.
+## Objetivo
+Auxiliar estudantes por meio de simulados, estatísticas de desempenho e questões comentadas.
 
-## 👥 Integrantes
-- Saulo Miranda
-- Thiago
-- Kaique Teixeira
+## Funcionalidades
+- Cadastro e login
+- Banco de questões
+- Simulados
+- Estatísticas
+- Fórum
 
-## 📂 Estrutura do Projeto
-- docs: documento final em PDF
-- diagramas: UML
-- entrevistas: elicitação
-- requisitos: especificação
+## Tecnologias
+- Figma
+- GitHub
+- Markdown
 
-## 🔗 Repositório
-Este repositório contém todos os artefatos desenvolvidos ao longo das sprints.
+## Integrantes
+- Nome 1
+- Nome 2
+- Nome 3
 
-## 🧪 Metodologia
-O projeto foi desenvolvido utilizando abordagem incremental baseada em sprints.
-
-## 📊 Diagramas UML
-- Casos de uso
-- Classes
-- Sequência
+## Documentação
+- [SRS](docs/SRS.md)
+- [Requisitos](docs/requisitos.md)
+- [Backlog](docs/backlog.md)
+- [Entrevista](docs/entrevista.md)
+- [Protótipos](docs/prototipos.md)
