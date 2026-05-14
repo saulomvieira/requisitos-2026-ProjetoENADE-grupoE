@@ -19,9 +19,9 @@ Auxiliar estudantes por meio de simulados, estatísticas de desempenho e questõ
 - Markdown
 
 ## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+-  Saulo Miranda
+- Kaique Teixeira
+- Thiago
 
 ## Documentação
 - [SRS](docs/SRS.md)
