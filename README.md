@@ -29,3 +29,9 @@ Auxiliar estudantes por meio de simulados, estatísticas de desempenho e questõ
 - [Backlog](docs/backlog.md)
 - [Entrevista](docs/entrevista.md)
 - [Protótipos](docs/prototipos.md)
+
+## Diagramas UML
+
+- [Diagrama de Caso de Uso](diagramas/caso-de-uso.png)
+- [Diagrama de Classes](diagramas/classes.png)
+- [Diagrama de Sequência](diagramas/sequencia.png)
