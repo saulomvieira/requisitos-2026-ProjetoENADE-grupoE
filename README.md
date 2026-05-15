@@ -1,37 +1,61 @@
 # Projeto ENADE - Grupo E
 
-## Descrição
-Sistema web/mobile voltado para preparação de estudantes para o ENADE.
+Sistema web/mobile desenvolvido para auxiliar estudantes na preparação para o ENADE por meio de simulados, questões comentadas e acompanhamento de desempenho.
 
-## Objetivo
-Auxiliar estudantes por meio de simulados, estatísticas de desempenho e questões comentadas.
+---
 
-## Funcionalidades
-- Cadastro e login
-- Banco de questões
-- Simulados
-- Estatísticas
-- Fórum
+# Objetivo
 
-## Tecnologias
-- Figma
-- GitHub
-- Markdown
+O projeto tem como objetivo aplicar conceitos de Engenharia de Requisitos e Modelagem de Sistemas no desenvolvimento da documentação e modelagem de um sistema de apoio ao ENADE.
 
-## Integrantes
--  Saulo Miranda
+---
+
+# Funcionalidades
+
+- Cadastro e login de usuários;
+- Banco de questões organizadas;
+- Simulados cronometrados;
+- Estatísticas de desempenho;
+- Gabarito comentado;
+- Fórum de interação entre usuários.
+
+---
+
+# Integrantes
+
+- Saulo Miranda
+- Tiago
 - Kaique Teixeira
-- Thiago
 
-## Documentação
-- [SRS](docs/SRS.md)
-- [Requisitos](docs/requisitos.md)
-- [Backlog](docs/backlog.md)
-- [Entrevista](docs/entrevista.md)
-- [Protótipos](docs/prototipos.md)
+---
 
-## Diagramas UML
+# Estrutura do Projeto
 
-- [Diagrama de Caso de Uso](diagramas/caso-de-uso.png)
-- [Diagrama de Classes](diagramas/classes.png)
-- [Diagrama de Sequência](diagramas/sequencia.png)
+```txt
+docs/
+ ├── visao.md
+ ├── stakeholders.md
+ ├── entrevista.md
+ ├── requisitos.md
+ ├── SRS.md
+ ├── backlog.md
+ ├── prototipos.md
+ ├── consistencia.md
+ └── P2.md
+
+diagramas/
+ ├── caso-de-uso.png
+ ├── classes.png
+ ├── sequencia.png
+ └── atividades.png
+
+prototipos/
+ ├── login.png
+ ├── cadastro.png
+ ├── dashboard.png
+ ├── simulado.png
+ └── resultado.png
+
+pdf/
+ ├── P1_Grupo_E.pdf
+ └── P2_Grupo_E.pdf
