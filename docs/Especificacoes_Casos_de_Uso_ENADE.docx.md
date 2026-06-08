@@ -29,12 +29,6 @@
 
 ## 
 
-## 
-
-## 
-
-## 
-
 ## **UC02 – Realizar Login**
 
 **Objetivo:** Permitir acesso ao sistema.
