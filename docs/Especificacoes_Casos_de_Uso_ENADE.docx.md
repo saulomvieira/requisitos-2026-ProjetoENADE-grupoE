@@ -25,8 +25,6 @@
 
 * Usuário cadastrado e apto a acessar o sistema.
 
----
-
 ## 
 
 ## **UC02 – Realizar Login**
@@ -66,10 +64,6 @@
 
 1. O estudante acessa o dashboard.  
 2. O sistema apresenta indicadores, simulados e desempenho.
-
----
-
-## 
 
 ## 
 
